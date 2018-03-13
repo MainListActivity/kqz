@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kqz.iml" filepath="$PROJECT_DIR$/kqz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kqz.iml" filepath="$PROJECT_DIR$/.idea/modules/kqz.iml" />
     </modules>
   </component>
 </project>
